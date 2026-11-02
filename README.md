@@ -1,7 +1,7 @@
 Hi, I’m Joseph Slivka (@jslivka66)
-- I’m interested in stochastic nonequilibrium processes
-- I’m currently learning tensor networks applied to far from equilibrium simulation methods
-- I’m looking to collaborate on image analysis for tracking problems, simulating lattice models, and topological data analysis
+- I study stochastic nonequilibrium processes applied to biological systems, from designing and executing precision experiments, to data analysis, to analytical modeling.
+- I currently use tensor networks, machine learning optimization, and build GUIs for streamlined computational modeling and analysis
+- I would like to collaborate on image analysis and segmentation, image tracking, simulating lattice models, and topological data analysis
 
 How to reach me: My email is jslivka@berkeley.edu
 
